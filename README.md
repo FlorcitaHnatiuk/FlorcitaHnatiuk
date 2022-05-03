@@ -3,7 +3,7 @@
 
 ** 🥰 Thank you for being here! I hope my learning process continues improving day by day. Here you'll have access to my proyects and ideas.
 
-** 🔭 I’m currently working on a proyect based mainly in JS.
+** 🔭 I’m currently working on a proyect based in React JS.
 
 ** 🌱 I’m currently studying to become a fullstack web developer at Coderhouse. I finished the first of four steps in my career. The proyect was Universe, please take a look at it! 
 
