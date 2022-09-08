@@ -7,6 +7,7 @@
 
 [![Florcita's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorcitaHnatiuk&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorcitaHnatiuk&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ** 📫 If you have any ideas you want to share please write me! flopi.hnatiuk@gmail.com
 
