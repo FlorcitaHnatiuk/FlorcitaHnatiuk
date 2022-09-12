@@ -1,9 +1,5 @@
 ### Hi there, I'm Flor! 👋
     A baby web dev! 
-    
-    <div id="header" align="center">
-  <img src="https://giphy.com/stickers/webfx-code-interactive-code-a-yoda-vLlpbDafjgHystuJ0a" width="100"/>
-</div>
 
 ** 🥰 Thank you for being here! 
 
