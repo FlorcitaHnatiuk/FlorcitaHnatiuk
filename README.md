@@ -7,6 +7,8 @@
 
 ** 🔭 I’m currently working on a proyect based in MERN stack and another in Python.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorcitaHnatiuk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ** 📫 If you have any ideas you want to share please write me! flopi.hnatiuk@gmail.com
 
 ** https://www.linkedin.com/in/florenciahnatiuk/
