@@ -5,7 +5,7 @@
 
 ** 🥰 Thank you for being here! 
 
-** 🔭 I’m currently working on a proyect based in MERN stack and another in Python.
+** 🔭 I’m currently in search of a place where expand my knowledge. Meanwhile, I work on proyects as a freelance
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorcitaHnatiuk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,8 +24,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ** 📫 If you have any ideas you want to share please write me! flopi.hnatiuk@gmail.com
-
-** https://www.linkedin.com/in/florenciahnatiuk/
-
 
 ⭐️ From [@Florcita](https://github.com/FlorcitaHnatiuk)
