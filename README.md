@@ -1,7 +1,7 @@
 
 
 ### Hi there, I'm Flor! 👋
-    A baby web dev! 
+    A fullstack web developer! 
 
 ** 🥰 Thank you for being here! 
 
